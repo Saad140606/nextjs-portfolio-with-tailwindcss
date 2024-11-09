@@ -11,8 +11,8 @@ const projectsData = [
     description: "Project 1 description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/https://github.com/Saad140606/nextjs-portfolio-with-tailwindcss.git",
+    previewUrl: "/https://saadnajam-portfolio-tailwindcss.vercel.app/",
   },
   {
     id: 2,
@@ -25,12 +25,12 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "E-commerce Application",
+    title: "Car Buying And Selling Website",
     description: "Project 3 description",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/https://github.com/Saad140606/GIAIC-react-with-tailwindcss-multipage.git",
+    previewUrl: "/https://carconnect-carbuyingandselling.vercel.app/",
   },
   {
     id: 4,
@@ -38,8 +38,8 @@ const projectsData = [
     description: "Project 4 description",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/https://github.com/Saad140606/GIAIC-multipage-with-react-customcss.git",
+    previewUrl: "/https://stayease-hotelbooking.vercel.app/",
   },
   {
     id: 5,
@@ -47,8 +47,8 @@ const projectsData = [
     description: "Authentication and CRUD operations",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/https://github.com/Saad140606/BQ-Final-Project-Group.git",
+    previewUrl: "/https://myhomerealestate.vercel.app/",
   },
   {
     id: 6,
@@ -56,8 +56,8 @@ const projectsData = [
     description: "Project 5 description",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "/https://github.com/Saad140606/Mid-Term-BanoQabil.git",
+    previewUrl: "/https://teamhyperlinksvegefoods.netlify.app/",
   },
 ];
 
